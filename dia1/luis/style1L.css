@@ -1,14 +1,3 @@
-main{
-    width: 100vw;
-    height: 100vh;
-    display: flex;
-    grid-template-columns: repeat(5,auto);
-    grid-template-rows: 100%;
-    gap: 10px;
-    box-shadow: 0 0 10px black;    
-
-    background:  white no-repeat scroll center;
-}
 body {
     font-family: 'Muli', sans-serif;
 }
